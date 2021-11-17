@@ -28,3 +28,7 @@ Desenfocada:
 
 
 ![Desenfoque de caja](https://raw.githubusercontent.com/parzibyte/filtros_imagenes_python/master/travel_difuminada.bmp)
+
+
+# Tutorial
+En el blog de Parzibyte: https://parzibyte.me/blog
